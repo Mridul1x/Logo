@@ -1,1 +1,1 @@
-<img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+<img width="480" height="480" src="https://img.icons8.com/color/480/typescript.png" alt="typescript"/>
